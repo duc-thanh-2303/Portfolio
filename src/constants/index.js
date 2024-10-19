@@ -42,7 +42,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Developer",
+    title: "FullStack Developer",
     icon: web,
   },
   {
@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "UX/UI Designer",
     icon: backend,
   },
   {
@@ -193,27 +193,27 @@ const testimonials = [
 const projects = [
   {
     // name: "Car Rent",
-    name: "Demo",
+    name: "E-learning",
     // description:
     //   "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     description: 
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "E-Learning Hub nhằm thu hút người dùng đăng ký và khám phá khóa học. Trang sẽ có tiêu đề hấp dẫn, giới thiệu ngắn gọn về lợi ích học trực tuyến...",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "mongodb",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "tailwind",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: carrent,
-    source_code_link: "https://github.com/duc-thanh-2303",
+    source_code_link: "https://github.com/duc-thanh-2303/E_Learning",
   },
   {
     // name: "Job IT",
